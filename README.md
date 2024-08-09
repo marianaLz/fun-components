@@ -2,7 +2,7 @@
 
 They are not exactly fun, but it was fun to create'em. 🤓
 
-![globitos](public/balloons.png)
+![globitos](public/fun_cover.svg)
 
 ## Available commands
 
