@@ -1,7 +1,18 @@
+@font-face {
+  font-family: "Balloon";
+  src: url("/fonts/balloon.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-balloon {
+  font-family: "Balloon";
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0rem;
   text-align: center;
 }
 
